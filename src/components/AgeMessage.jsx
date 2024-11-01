@@ -45,13 +45,10 @@ export default function AgeMessage(props) {
         </div>
       ) : (
         <div>
-            <p className="relative top-20 text-center  text-2xl">
-            <span className="border-solid border-2 border-red-200 rounded-full p-2 px-4">I'm {props.age}  </span>
-            <span></span>
+            <p className="relative w-8/12 mx-auto top-20 text-center  font-light">
+            <img src="cake.png" className="angry hidden hidden-on-custom" alt="angry"/>
             </p>
-            <p className="relative w-10/12 mx-auto top-20 text-center  text-xl mt-5  font-light">
-            C'est quand mon anniversaire?
-            </p>
+
             <p className="relative w-10/12 mx-auto top-20 text-center  text-xl mt-5  font-light">
             <span className="font-bold">
                 Psaume 27:24
@@ -59,9 +56,7 @@ export default function AgeMessage(props) {
             "Espère en l'Éternel! Fortifie-toi et que ton cœur s'affermisse! Espère en l'Éternel!"
             </p>
             
-            <p className="relative w-8/12 mx-auto top-20 text-center  font-light">
-            <img src="not.png" className="angry hidden hidden-on-custom" alt="angry"/>
-            </p>
+            
         </div>
         
       )}

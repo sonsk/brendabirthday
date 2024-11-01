@@ -11,7 +11,7 @@ function App() {
   const age = countAge();
 
   return (
-    <div className="App min-h-screen bg-blue-50">
+    <div className="App min-h-screen ">
       <div className="">
         <Header/>
       </div>
