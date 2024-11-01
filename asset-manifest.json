@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/brendabirthday/static/css/main.f196183d.css",
+    "main.js": "/brendabirthday/static/js/main.ebdc2f83.js",
+    "static/js/453.2954b685.chunk.js": "/brendabirthday/static/js/453.2954b685.chunk.js",
+    "static/media/logo.svg": "/brendabirthday/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/brendabirthday/index.html",
+    "main.f196183d.css.map": "/brendabirthday/static/css/main.f196183d.css.map",
+    "main.ebdc2f83.js.map": "/brendabirthday/static/js/main.ebdc2f83.js.map",
+    "453.2954b685.chunk.js.map": "/brendabirthday/static/js/453.2954b685.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f196183d.css",
+    "static/js/main.ebdc2f83.js"
+  ]
+}
